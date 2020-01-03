@@ -49,6 +49,8 @@
 
     echo date('d/m/y  G:i',time());
 
+    echo "Add more thing";
+
 
     ?>
 
